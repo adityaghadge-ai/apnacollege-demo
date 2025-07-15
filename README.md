@@ -1,3 +1,5 @@
 # apnacollege-demo
 This is my first repository
-Author - Aditya Ghadge
+<br>
+Author - Aditya( Aditya Ghadge ,VIT Pune )
+A is a and B is b
